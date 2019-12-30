@@ -2,4 +2,4 @@
 
 Basic Logistic Regression
 
-IEEE Gazi Computer Society Introduction to Artificial Intelligent and Machine Learning
+IEEE Gazi Computer Society Introduction to Artificial Intelligence and Machine Learning
